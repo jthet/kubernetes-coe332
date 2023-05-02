@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=MATLAB
+Exec=bash -c 'module load matlab && matlab && module unload matlab'
+Terminal=true
+Type=Application
+Icon=/software/icons/matlab_icon.png

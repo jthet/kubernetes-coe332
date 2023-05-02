@@ -1,0 +1,8 @@
+2023-03-22 23:34:37.939 [info] Extension host agent started.
+2023-03-22 23:34:38.125 [info] [127.0.0.1][e27f1dcf][ManagementConnection] New connection established.
+2023-03-22 23:34:38.170 [info] [127.0.0.1][86777478][ExtensionHostConnection] New connection established.
+2023-03-22 23:34:38.175 [info] [127.0.0.1][86777478][ExtensionHostConnection] <618233> Launched Extension Host Process.
+2023-03-22 23:34:49.886 [info] [127.0.0.1][e27f1dcf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-22 23:34:49.901 [info] [127.0.0.1][86777478][ExtensionHostConnection] <618233> Extension Host Process exited with code: 0, signal: null.
+2023-03-22 23:34:49.901 [info] Last EH closed, waiting before shutting down
+2023-03-22 23:39:49.904 [info] Last EH closed, shutting down

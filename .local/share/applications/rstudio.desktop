@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=RStudio
+Exec=bash -c 'module load rstudio && rstudio && module unload rstudio'
+Terminal=false
+Type=Application
+Icon=/software/icons/rstudio_icon.png
